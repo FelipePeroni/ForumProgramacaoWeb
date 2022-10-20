@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+	<signo>
+		<dataInicio>0321</dataInicio>
+		<dataFim>0420</dataFim>
+		<signoNome>Áries</signoNome>
+		<descricao>A Lua no setor do cotidiano pode pedir atenção ao bem-estar. Você acaba tendo maior controle de gastos e dos desafios interpessoais nos processos de gestão. Contudo, a harmonia que a Lua forma com Marte, Sol e Vênus tende a lhe deixar mais disposta a superar as diferenças..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>0421</dataInicio>
+		<dataFim>0520</dataFim>
+		<signoNome>Touro</signoNome>
+		<descricao>Tente não deixar de lado a diversão, já que a Lua segue para o setor dos prazeres. Desafios de gestão tendem a aflorar com Lua, Saturno e Urano tensionados, mas com força de vontade e criatividade você consegue obter bons resultados, como sugere a harmonia da Lua com Marte, Sol e Vênus..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>0521</dataInicio>
+		<dataFim>0620</dataFim>
+		<signoNome>Gêmeos</signoNome>
+		<descricao>O lar pode se mostrar revigorante com o ingresso da Lua na área da família. Decepções ainda repercutem em seu bem-estar frente à tensão entre Lua, Saturno e Urano. Mas você tende a conseguir recuperar a autoconfiança e o prazer pela vida, visto a harmonia que a Lua forma com Marte, Sol e Vênus..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>0621</dataInicio>
+		<dataFim>0722</dataFim>
+		<signoNome>Câncer</signoNome>
+		<descricao>O momento tende a favorecer o diálogo. Seus relacionamentos podem passar por dificuldades frente à tensão entre Lua, Saturno e Urano, mas a habilidade se mostra um forte aliado para conciliar os interesses em jogo, visto a harmonia que a Lua forma com Marte, Sol e Vênus..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>0723</dataInicio>
+		<dataFim>0822</dataFim>
+		<signoNome>Leão</signoNome>
+		<descricao>A Lua no setor material tende a favorecer cuidados com o corpo e as finanças. Suas relações de trabalho vivem momentos instáveis face à tensão entre Lua, Saturno e Urano. Contudo, a harmonia que a Lua forma com Marte, Sol e Vênus pode despertar seu lado mais amigável..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>0823</dataInicio>
+		<dataFim>0922</dataFim>
+		<signoNome>Virgem</signoNome>
+		<descricao>Procure praticar autocuidado. Desafios estressantes podem afetar seu bem-estar frente à tensão envolvendo Lua, Saturno e Urano, mas com dedicação e criatividade você tende a alcançar resultados satisfatórios, considerando a harmonia da Lua com Marte, Sol e Vênus..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>0923</dataInicio>
+		<dataFim>1022</dataFim>
+		<signoNome>Libra</signoNome>
+		<descricao>Tente evitar se sobrecarregar e busque dar valor ao descanso, pois a Lua adentra a área de crise. As relações podem ficar suscetíveis a conflitos frente à tensão entre Lua, Saturno e Urano. Sua postura flexível face à harmonia da Lua com Marte, Sol e Vênus tende a ajudar a restabelecer o equilíbrio..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>1023</dataInicio>
+		<dataFim>1121</dataFim>
+		<signoNome>Escorpião</signoNome>
+		<descricao>É importante valorizar o apoio de quem lhe quer bem, já que a Lua adentra a casa das amizades. Os contratempos no cotidiano podem trazer sobrecarga mental, dada a tensão entre Lua, Saturno e Urano. Por isso, busque alternar trabalho e lazer, como sugere a harmonia da Lua com Marte, Sol e Vênus..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>1122</dataInicio>
+		<dataFim>1221</dataFim>
+		<signoNome>Sargitário</signoNome>
+		<descricao>Visto a harmonia que a Lua forma com Marte, Sol e Vênus, é preciso buscar a colaboração do entorno. Tente valorizar suas vocações, já que a Lua segue para a casa do trabalho. Os aspectos tensos envolvendo Lua, Saturno e Urano podem apontar imprevistos que colocam em xeque suas ideias..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>1222</dataInicio>
+		<dataFim>0120</dataFim>
+		<signoNome>Capricórnio</signoNome>
+		<descricao>Que tal valorizar a ética? A coletividade tende a se revelar complicada frente à tensão com Lua, Saturno e Urano, especialmente quando o assunto envolve territorialidade. Empatia e dinamismo podem aflorar na harmonia da Lua com Marte, Sol e Vênus, o que viabiliza conciliações..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>0121</dataInicio>
+		<dataFim>0218</dataFim>
+		<signoNome>Aquário</signoNome>
+		<descricao>Esta fase pode pedir quietude. Conflitos nos relacionamentos ainda representam fonte de desgaste face à tensão entre Lua, Urano e Saturno. Mas o resgate de prazeres promovido pela harmonia da Lua com Marte, Sol e Vênus tende a contribuir com posturas mais agradáveis..</descricao>
+	</signo>
+	<signo>
+		<dataInicio>0219</dataInicio>
+		<dataFim>0320</dataFim>
+		<signoNome>Peixes</signoNome>
+		<descricao>A articulação com o entorno tende a se revelar amigável e colaborativa frente à harmonia que Marte, Sol e Vênus formam com a Lua, que segue para a casa dos relacionamentos. Os obstáculos na rotina podem afetar sobre seu bem-estar, pois persiste a tensão entre Lua, Saturno e Urano..</descricao>
+	</signo>
+</signos>
